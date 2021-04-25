@@ -18,7 +18,15 @@ export class AuthService {
   }
 
   async login(user: IRSLogin) {
-    const payload = { username: user.username, sub: user.userId };
+    let role = ['ADMIN'];
+    if (user.username === 'maria') {
+      role = ['DEVELOP'];
+    }
+    const payload = {
+      username: user.username,
+      sub: user.userId,
+      role,
+    };
 
     return {
       accessToken: this.jwtService.sign(payload),
