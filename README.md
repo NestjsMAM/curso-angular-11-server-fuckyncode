@@ -8,7 +8,23 @@ Este proyecto lo usaremos para nuestro Fake API chicos, miren todos los videos p
 
 Si desean un curso solo de NestJS dejen sus comentario, suscribanse y activen la campanita!! 😎
 
-https://www.youtube.com/c/fuckynCode
+Pueden escribirme si tiene dudas chikis, gracias por su apoyo.🤗
+
+🤔¿Quieres saber más de angular? Mira mi curso en YouTube
+https://youtube.com/playlist?list=PLy09ETjgu8VqSJgZXiiL-pSg4g1xbowGE
+
+Suscríbete a mi canal 😎
+www.youtube.com/c/fuckynCode
+
+**Sígueme en mis redes:**
+👉Facebook : https://facebook.com/fukyncode  
+búscame como: @fukyncode  
+👉Instagram: https://instagram.com/jimyhdolores/  
+búscame como: @jimyhdolores  
+👉Twitter: https://twitter.com/jimyHDolores  
+búscame como: @jimyHDolores  
+👉LinkedIn:https://linkedin.com/in/jimyhuachodolores/  
+búscame como: @jimyhuachodolores
 
 ## Instalación
 
